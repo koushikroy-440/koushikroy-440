@@ -2,6 +2,8 @@
 
 ## I'm a Brother,Son,Developer and learner!
 
+A passionate self-taught frontEnd web developer from India.
+
 - 🔭 I’m currently working on a vue js project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -39,7 +41,13 @@
 
 
 
+<<<<<<< HEAD
   <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html&layout=compact" />
+=======
+   <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html&layout=compact" />
+
+  
+>>>>>>> 053d66fbf7bf382642d0f67dd163155bb0aaa946
 
 
 
