@@ -32,7 +32,12 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="koushik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=koushikroy-440&show_icons=true&hide_border=true" />
+
+</details>
 
 
 [instagram]: https://www.instagram.com/koushik__r0y/
