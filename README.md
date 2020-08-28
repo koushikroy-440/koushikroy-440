@@ -39,7 +39,7 @@
 
 
 
-  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html,css,bootstrap 4,jquery&layout=compact" />
+  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html&layout=compact" />
 
 
 
