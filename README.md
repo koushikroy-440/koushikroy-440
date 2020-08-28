@@ -41,7 +41,7 @@
 
   <!-- <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html&layout=compact" /> -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html)]
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html)
 
 
 
