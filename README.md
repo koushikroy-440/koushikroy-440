@@ -39,6 +39,13 @@
 
 </details>
 
+<details>
+  <!-- <summary>:zap: Github Stats</summary> -->
+
+  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html,css,bootstrap 4,jquery&layout=compact" />
+
+</details>
+
 
 [instagram]: https://www.instagram.com/koushik__r0y/
 [linkedin]: https://www.linkedin.com/in/koushik-roy-2023151b0/
