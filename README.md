@@ -35,16 +35,6 @@
 
   <img align="left" alt="koushik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=koushikroy-440&theme=dark&show_icons=true&hide_border=true" />
 
-
-
-
-
-   <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html&layout=compact" />
-
-  
-
-
-
 [instagram]: https://www.instagram.com/koushik__r0y/
 [linkedin]: https://www.linkedin.com/in/koushik-roy-2023151b0/
 
