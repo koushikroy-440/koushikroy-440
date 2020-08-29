@@ -35,20 +35,7 @@ A passionate self-taught frontEnd web developer from India.
 <br />
 
 
-  <img align="left" alt="koushik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=koushikroy-440&theme=dark&show_icons=true&hide_border=true" />
-
-
-
-
-
-<<<<<<< HEAD
-  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html&layout=compact" />
-=======
-   <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikroy-440&hide=javascript,html&layout=compact" />
-
-  
->>>>>>> 053d66fbf7bf382642d0f67dd163155bb0aaa946
-
+  <img align="left" alt="koushik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=koushikroy-440&theme=chartreuse-dark&show_icons=true&hide_border=true" />
 
 
 [instagram]: https://www.instagram.com/koushik__r0y/
