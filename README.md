@@ -8,7 +8,7 @@ A passionate self-taught frontEnd web developer from India.
 - 🔭 I’m currently working on a vue js project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 
@@ -19,9 +19,9 @@ A passionate self-taught frontEnd web developer from India.
 
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools: -->
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
@@ -29,7 +29,9 @@ A passionate self-taught frontEnd web developer from India.
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />] -->
+#### Development:
+<img src="https://img.shields.io/badge/html-%ca64564.svg?&style=for-the-badge&logo=html5&color=orange&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/css-%2320BEFF.svg?&style=for-the-badge&logo=css3&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23FCC624.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp; <img src="https://img.shields.io/badge/jQuery-%233776AB.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />  &nbsp; &nbsp;<img src="https://img.shields.io/badge/bootstrap-%563D7C.svg?&style=for-the-badge&logo=bootstrap&color=navy&logoColor=white" /> 
 
 
 <br />
