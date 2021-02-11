@@ -33,6 +33,9 @@ A passionate self-taught frontEnd web developer from India.
 #### Development:
 <img src="https://img.shields.io/badge/html-%ca64564.svg?&style=for-the-badge&logo=html5&color=orange&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/css-%2320BEFF.svg?&style=for-the-badge&logo=css3&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23FCC624.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp; <img src="https://img.shields.io/badge/jQuery-%233776AB.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />  &nbsp; &nbsp;<img src="https://img.shields.io/badge/bootstrap-%563D7C.svg?&style=for-the-badge&logo=bootstrap&color=navy&logoColor=white" />  &nbsp; &nbsp;  <img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" /> &nbsp;  &nbsp;
 
+#### Database:
+<img src="https://img.shields.io/badge/mysql-%ca64564.svg?&style=for-the-badge&logo=mysql&color=orange&logoColor=white" />    &nbsp; &nbsp;
+
 
 <br />
 <br />
