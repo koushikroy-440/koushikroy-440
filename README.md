@@ -3,7 +3,7 @@
 
 ## I'm a Brother,Son,Developer and learner!
 
-A passionate self-taught frontEnd web developer from India.
+A passionate self-taught Full Stack Web Developer from India.
 
 - 🔭 I’m currently working on a vue js project!
 - 🌱 I’m currently learning everything 🤣
@@ -39,6 +39,10 @@ A passionate self-taught frontEnd web developer from India.
 #### Development tools:
 <img src="https://img.shields.io/badge/VS CODE-%ca64564.svg?&style=for-the-badge&logo=visual-studio&color=blueviolet&logoColor=white" />  &nbsp; &nbsp;<img src="https://img.shields.io/badge/figma-%ca64564.svg?&style=for-the-badge&logo=figma&color=deeppink&logoColor=white" />    &nbsp; &nbsp;
 
+#### Version Control:
+<img src="https://img.shields.io/badge/github-%ca64564.svg?&style=for-the-badge&logo=github&color=black&logoColor=white" />
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <br />
 <br />
