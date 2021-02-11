@@ -36,6 +36,9 @@ A passionate self-taught frontEnd web developer from India.
 #### Database:
 <img src="https://img.shields.io/badge/mysql-%ca64564.svg?&style=for-the-badge&logo=mysql&color=orange&logoColor=white" />    &nbsp; &nbsp;
 
+#### Development tools:
+<img src="https://img.shields.io/badge/VS CODE-%ca64564.svg?&style=for-the-badge&logo=visual-studio&color=blueviolet&logoColor=white" />  &nbsp; &nbsp;<img src="https://img.shields.io/badge/figma-%ca64564.svg?&style=for-the-badge&logo=figma&color=deeppink&logoColor=white" />    &nbsp; &nbsp;
+
 
 <br />
 <br />
