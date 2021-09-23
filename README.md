@@ -1,5 +1,5 @@
 <img align="right" alt="GIF"  width="350px" src="https://www.andersonfrank.com/wp-content/uploads/2019/11/giphy-6.gif" />
-### Hi there, I'm koushik 👋
+### Hi all 👋 I'm koushik
 
 ## I'm a Brother,Son,Developer and learner!
 
