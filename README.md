@@ -19,17 +19,9 @@ A passionate self-taught Full Stack Web Developer from India.
 
 <br />
 
-<!-- ### Languages and Tools: -->
-
-<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />] -->
+## Technical Skills
+#### Languages: 
+<img src="https://img.shields.io/badge/C-%ca64564.svg?&style=for-the-badge&logo=C&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/java-%23FCC624.svg?&style=for-the-badge&logo=java&logoColor=white" />
 #### Development:
 <img src="https://img.shields.io/badge/html-%ca64564.svg?&style=for-the-badge&logo=html5&color=orange&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/css-%2320BEFF.svg?&style=for-the-badge&logo=css3&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23FCC624.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp; <img src="https://img.shields.io/badge/jQuery-%233776AB.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />  &nbsp; &nbsp;<img src="https://img.shields.io/badge/bootstrap-%563D7C.svg?&style=for-the-badge&logo=bootstrap&color=navy&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" /> &nbsp;  &nbsp; <img src="https://img.shields.io/badge/laravel-%23D00000.svg?&style=for-the-badge&logo=laravel&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/nodeJS-%32cd32.svg?&style=for-the-badge&logo=node.js&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/ReactJs-%2320BEFF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp; &nbsp; <img src="https://img.shields.io/badge/angular-%23D00000.svg?&style=for-the-badge&logo=angular&logoColor=white" />    &nbsp; &nbsp;
 
